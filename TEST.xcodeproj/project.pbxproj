@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0174CA602B5C0347006A6E18 /* StatusViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0174CA5F2B5C0347006A6E18 /* StatusViewController.swift */; };
 		01815D4D2B5BDA7D003E9BC4 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01815D4C2B5BDA7D003E9BC4 /* AppDelegate.swift */; };
 		01815D4F2B5BDA7D003E9BC4 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01815D4E2B5BDA7D003E9BC4 /* SceneDelegate.swift */; };
 		01815D512B5BDA7D003E9BC4 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01815D502B5BDA7D003E9BC4 /* ViewController.swift */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		0174CA5F2B5C0347006A6E18 /* StatusViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StatusViewController.swift; sourceTree = "<group>"; };
 		01815D492B5BDA7D003E9BC4 /* TEST.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TEST.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		01815D4C2B5BDA7D003E9BC4 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		01815D4E2B5BDA7D003E9BC4 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -61,11 +63,12 @@
 				01815D4C2B5BDA7D003E9BC4 /* AppDelegate.swift */,
 				01815D4E2B5BDA7D003E9BC4 /* SceneDelegate.swift */,
 				01815D502B5BDA7D003E9BC4 /* ViewController.swift */,
+				01815D602B5BDD1D003E9BC4 /* Person.swift */,
+				01815D622B5BDDB1003E9BC4 /* TableViewCell.swift */,
+				0174CA5F2B5C0347006A6E18 /* StatusViewController.swift */,
 				01815D552B5BDA83003E9BC4 /* Assets.xcassets */,
 				01815D572B5BDA83003E9BC4 /* LaunchScreen.storyboard */,
 				01815D5A2B5BDA83003E9BC4 /* Info.plist */,
-				01815D602B5BDD1D003E9BC4 /* Person.swift */,
-				01815D622B5BDDB1003E9BC4 /* TableViewCell.swift */,
 			);
 			path = TEST;
 			sourceTree = "<group>";
@@ -144,6 +147,7 @@
 				01815D512B5BDA7D003E9BC4 /* ViewController.swift in Sources */,
 				01815D4D2B5BDA7D003E9BC4 /* AppDelegate.swift in Sources */,
 				01815D612B5BDD1D003E9BC4 /* Person.swift in Sources */,
+				0174CA602B5C0347006A6E18 /* StatusViewController.swift in Sources */,
 				01815D4F2B5BDA7D003E9BC4 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
